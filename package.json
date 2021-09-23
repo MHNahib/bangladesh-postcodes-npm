@@ -1,6 +1,10 @@
 {
   "name": "bangladesh-postcodes-npm",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajuAhmed1705/bangladesh-address"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
