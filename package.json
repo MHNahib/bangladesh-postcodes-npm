@@ -1,0 +1,17 @@
+{
+  "name": "bangladesh-postcodes-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bangladesh",
+    "bd-postoffice",
+    "bangladesh-postcode",
+    "upazila"
+  ],
+  "author": "M. H. Nahib",
+  "license": "ISC"
+}
