@@ -2,6 +2,8 @@
 <img src="https://i.ibb.co/vv3rhkp/npm-i-bangladesh-postcodes-npm.png" alt="bangladesh-postcodes-npm" border="0">
 </center>
 
+![npm](https://img.shields.io/npm/v/bangladesh-postcodes-npm?color=green&style=flat-square)  ![npm](https://img.shields.io/npm/dm/bangladesh-postcodes-npm?color=orange&style=flat-square)
+
 Bangladesh Postcodes NPM simple npm package to find the postcode and post office name of Bangladesh.
 
 ## Features
